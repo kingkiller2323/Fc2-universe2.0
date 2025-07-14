@@ -1,0 +1,895 @@
+{
+    "universeName": "Hubbard Storm Dynasty",
+    "conferences": [
+        {
+            "name": "Lone Star League",
+            "teams": [
+                {
+                    "name": "Hubbard Storm",
+                    "abbreviation": "HUB",
+                    "prestige": 99,
+                    "rival": "MEX"
+                },
+                {
+                    "name": "Mexia Marauders",
+                    "abbreviation": "MEX",
+                    "prestige": 85,
+                    "rival": "HUB"
+                },
+                {
+                    "name": "Waco Rattlers",
+                    "abbreviation": "WAC",
+                    "prestige": 83,
+                    "rival": "SAO"
+                },
+                {
+                    "name": "San Antonio Outlaws",
+                    "abbreviation": "SAO",
+                    "prestige": 82,
+                    "rival": "WAC"
+                },
+                {
+                    "name": "Dallas Republic",
+                    "abbreviation": "DAL",
+                    "prestige": 78,
+                    "rival": "AUS"
+                },
+                {
+                    "name": "Austin Thunder",
+                    "abbreviation": "AUS",
+                    "prestige": 79,
+                    "rival": "DAL"
+                },
+                {
+                    "name": "Killeen Guard",
+                    "abbreviation": "KIL",
+                    "prestige": 74,
+                    "rival": "GAL"
+                },
+                {
+                    "name": "Galveston Coast",
+                    "abbreviation": "GAL",
+                    "prestige": 73,
+                    "rival": "KIL"
+                },
+                {
+                    "name": "Midland Drillers",
+                    "abbreviation": "MID",
+                    "prestige": 72,
+                    "rival": "BEA"
+                },
+                {
+                    "name": "Beaumont Roughnecks",
+                    "abbreviation": "BEA",
+                    "prestige": 70,
+                    "rival": "MID"
+                },
+                {
+                    "name": "Amarillo Stampede",
+                    "abbreviation": "AMA",
+                    "prestige": 68,
+                    "rival": "ELP"
+                },
+                {
+                    "name": "El Paso Sentinels",
+                    "abbreviation": "ELP",
+                    "prestige": 67,
+                    "rival": "AMA"
+                },
+                {
+                    "name": "Tyler Forge",
+                    "abbreviation": "TYL",
+                    "prestige": 65,
+                    "rival": "ODE"
+                },
+                {
+                    "name": "Odessa Oilers",
+                    "abbreviation": "ODE",
+                    "prestige": 64,
+                    "rival": "TYL"
+                }
+            ]
+        },
+        {
+            "name": "Gulf Coast Alliance",
+            "teams": [
+                {
+                    "name": "Gulf Coast Alliance 0",
+                    "abbreviation": "GCA0",
+                    "prestige": 90,
+                    "rival": "GCA1"
+                },
+                {
+                    "name": "Gulf Coast Alliance 1",
+                    "abbreviation": "GCA1",
+                    "prestige": 89,
+                    "rival": "GCA2"
+                },
+                {
+                    "name": "Gulf Coast Alliance 2",
+                    "abbreviation": "GCA2",
+                    "prestige": 88,
+                    "rival": "GCA3"
+                },
+                {
+                    "name": "Gulf Coast Alliance 3",
+                    "abbreviation": "GCA3",
+                    "prestige": 87,
+                    "rival": "GCA4"
+                },
+                {
+                    "name": "Gulf Coast Alliance 4",
+                    "abbreviation": "GCA4",
+                    "prestige": 86,
+                    "rival": "GCA5"
+                },
+                {
+                    "name": "Gulf Coast Alliance 5",
+                    "abbreviation": "GCA5",
+                    "prestige": 85,
+                    "rival": "GCA6"
+                },
+                {
+                    "name": "Gulf Coast Alliance 6",
+                    "abbreviation": "GCA6",
+                    "prestige": 84,
+                    "rival": "GCA7"
+                },
+                {
+                    "name": "Gulf Coast Alliance 7",
+                    "abbreviation": "GCA7",
+                    "prestige": 83,
+                    "rival": "GCA8"
+                },
+                {
+                    "name": "Gulf Coast Alliance 8",
+                    "abbreviation": "GCA8",
+                    "prestige": 82,
+                    "rival": "GCA9"
+                },
+                {
+                    "name": "Gulf Coast Alliance 9",
+                    "abbreviation": "GCA9",
+                    "prestige": 81,
+                    "rival": "GCA10"
+                },
+                {
+                    "name": "Gulf Coast Alliance 10",
+                    "abbreviation": "GCA10",
+                    "prestige": 80,
+                    "rival": "GCA11"
+                },
+                {
+                    "name": "Gulf Coast Alliance 11",
+                    "abbreviation": "GCA11",
+                    "prestige": 79,
+                    "rival": "GCA12"
+                },
+                {
+                    "name": "Gulf Coast Alliance 12",
+                    "abbreviation": "GCA12",
+                    "prestige": 78,
+                    "rival": "GCA13"
+                },
+                {
+                    "name": "Gulf Coast Alliance 13",
+                    "abbreviation": "GCA13",
+                    "prestige": 77,
+                    "rival": "GCA0"
+                }
+            ]
+        },
+        {
+            "name": "Rocky Frontier",
+            "teams": [
+                {
+                    "name": "Rocky Frontier 0",
+                    "abbreviation": "RF0",
+                    "prestige": 90,
+                    "rival": "RF1"
+                },
+                {
+                    "name": "Rocky Frontier 1",
+                    "abbreviation": "RF1",
+                    "prestige": 89,
+                    "rival": "RF2"
+                },
+                {
+                    "name": "Rocky Frontier 2",
+                    "abbreviation": "RF2",
+                    "prestige": 88,
+                    "rival": "RF3"
+                },
+                {
+                    "name": "Rocky Frontier 3",
+                    "abbreviation": "RF3",
+                    "prestige": 87,
+                    "rival": "RF4"
+                },
+                {
+                    "name": "Rocky Frontier 4",
+                    "abbreviation": "RF4",
+                    "prestige": 86,
+                    "rival": "RF5"
+                },
+                {
+                    "name": "Rocky Frontier 5",
+                    "abbreviation": "RF5",
+                    "prestige": 85,
+                    "rival": "RF6"
+                },
+                {
+                    "name": "Rocky Frontier 6",
+                    "abbreviation": "RF6",
+                    "prestige": 84,
+                    "rival": "RF7"
+                },
+                {
+                    "name": "Rocky Frontier 7",
+                    "abbreviation": "RF7",
+                    "prestige": 83,
+                    "rival": "RF8"
+                },
+                {
+                    "name": "Rocky Frontier 8",
+                    "abbreviation": "RF8",
+                    "prestige": 82,
+                    "rival": "RF9"
+                },
+                {
+                    "name": "Rocky Frontier 9",
+                    "abbreviation": "RF9",
+                    "prestige": 81,
+                    "rival": "RF10"
+                },
+                {
+                    "name": "Rocky Frontier 10",
+                    "abbreviation": "RF10",
+                    "prestige": 80,
+                    "rival": "RF11"
+                },
+                {
+                    "name": "Rocky Frontier 11",
+                    "abbreviation": "RF11",
+                    "prestige": 79,
+                    "rival": "RF12"
+                },
+                {
+                    "name": "Rocky Frontier 12",
+                    "abbreviation": "RF12",
+                    "prestige": 78,
+                    "rival": "RF13"
+                },
+                {
+                    "name": "Rocky Frontier 13",
+                    "abbreviation": "RF13",
+                    "prestige": 77,
+                    "rival": "RF0"
+                }
+            ]
+        },
+        {
+            "name": "Great Plains Union",
+            "teams": [
+                {
+                    "name": "Great Plains Union 0",
+                    "abbreviation": "GPU0",
+                    "prestige": 90,
+                    "rival": "GPU1"
+                },
+                {
+                    "name": "Great Plains Union 1",
+                    "abbreviation": "GPU1",
+                    "prestige": 89,
+                    "rival": "GPU2"
+                },
+                {
+                    "name": "Great Plains Union 2",
+                    "abbreviation": "GPU2",
+                    "prestige": 88,
+                    "rival": "GPU3"
+                },
+                {
+                    "name": "Great Plains Union 3",
+                    "abbreviation": "GPU3",
+                    "prestige": 87,
+                    "rival": "GPU4"
+                },
+                {
+                    "name": "Great Plains Union 4",
+                    "abbreviation": "GPU4",
+                    "prestige": 86,
+                    "rival": "GPU5"
+                },
+                {
+                    "name": "Great Plains Union 5",
+                    "abbreviation": "GPU5",
+                    "prestige": 85,
+                    "rival": "GPU6"
+                },
+                {
+                    "name": "Great Plains Union 6",
+                    "abbreviation": "GPU6",
+                    "prestige": 84,
+                    "rival": "GPU7"
+                },
+                {
+                    "name": "Great Plains Union 7",
+                    "abbreviation": "GPU7",
+                    "prestige": 83,
+                    "rival": "GPU8"
+                },
+                {
+                    "name": "Great Plains Union 8",
+                    "abbreviation": "GPU8",
+                    "prestige": 82,
+                    "rival": "GPU9"
+                },
+                {
+                    "name": "Great Plains Union 9",
+                    "abbreviation": "GPU9",
+                    "prestige": 81,
+                    "rival": "GPU10"
+                },
+                {
+                    "name": "Great Plains Union 10",
+                    "abbreviation": "GPU10",
+                    "prestige": 80,
+                    "rival": "GPU11"
+                },
+                {
+                    "name": "Great Plains Union 11",
+                    "abbreviation": "GPU11",
+                    "prestige": 79,
+                    "rival": "GPU12"
+                },
+                {
+                    "name": "Great Plains Union 12",
+                    "abbreviation": "GPU12",
+                    "prestige": 78,
+                    "rival": "GPU13"
+                },
+                {
+                    "name": "Great Plains Union 13",
+                    "abbreviation": "GPU13",
+                    "prestige": 77,
+                    "rival": "GPU0"
+                }
+            ]
+        },
+        {
+            "name": "Pacific Wildfire",
+            "teams": [
+                {
+                    "name": "Pacific Wildfire 0",
+                    "abbreviation": "PW0",
+                    "prestige": 90,
+                    "rival": "PW1"
+                },
+                {
+                    "name": "Pacific Wildfire 1",
+                    "abbreviation": "PW1",
+                    "prestige": 89,
+                    "rival": "PW2"
+                },
+                {
+                    "name": "Pacific Wildfire 2",
+                    "abbreviation": "PW2",
+                    "prestige": 88,
+                    "rival": "PW3"
+                },
+                {
+                    "name": "Pacific Wildfire 3",
+                    "abbreviation": "PW3",
+                    "prestige": 87,
+                    "rival": "PW4"
+                },
+                {
+                    "name": "Pacific Wildfire 4",
+                    "abbreviation": "PW4",
+                    "prestige": 86,
+                    "rival": "PW5"
+                },
+                {
+                    "name": "Pacific Wildfire 5",
+                    "abbreviation": "PW5",
+                    "prestige": 85,
+                    "rival": "PW6"
+                },
+                {
+                    "name": "Pacific Wildfire 6",
+                    "abbreviation": "PW6",
+                    "prestige": 84,
+                    "rival": "PW7"
+                },
+                {
+                    "name": "Pacific Wildfire 7",
+                    "abbreviation": "PW7",
+                    "prestige": 83,
+                    "rival": "PW8"
+                },
+                {
+                    "name": "Pacific Wildfire 8",
+                    "abbreviation": "PW8",
+                    "prestige": 82,
+                    "rival": "PW9"
+                },
+                {
+                    "name": "Pacific Wildfire 9",
+                    "abbreviation": "PW9",
+                    "prestige": 81,
+                    "rival": "PW10"
+                },
+                {
+                    "name": "Pacific Wildfire 10",
+                    "abbreviation": "PW10",
+                    "prestige": 80,
+                    "rival": "PW11"
+                },
+                {
+                    "name": "Pacific Wildfire 11",
+                    "abbreviation": "PW11",
+                    "prestige": 79,
+                    "rival": "PW12"
+                },
+                {
+                    "name": "Pacific Wildfire 12",
+                    "abbreviation": "PW12",
+                    "prestige": 78,
+                    "rival": "PW13"
+                },
+                {
+                    "name": "Pacific Wildfire 13",
+                    "abbreviation": "PW13",
+                    "prestige": 77,
+                    "rival": "PW0"
+                }
+            ]
+        },
+        {
+            "name": "Empire Eight",
+            "teams": [
+                {
+                    "name": "Empire Eight 0",
+                    "abbreviation": "EE0",
+                    "prestige": 90,
+                    "rival": "EE1"
+                },
+                {
+                    "name": "Empire Eight 1",
+                    "abbreviation": "EE1",
+                    "prestige": 89,
+                    "rival": "EE2"
+                },
+                {
+                    "name": "Empire Eight 2",
+                    "abbreviation": "EE2",
+                    "prestige": 88,
+                    "rival": "EE3"
+                },
+                {
+                    "name": "Empire Eight 3",
+                    "abbreviation": "EE3",
+                    "prestige": 87,
+                    "rival": "EE4"
+                },
+                {
+                    "name": "Empire Eight 4",
+                    "abbreviation": "EE4",
+                    "prestige": 86,
+                    "rival": "EE5"
+                },
+                {
+                    "name": "Empire Eight 5",
+                    "abbreviation": "EE5",
+                    "prestige": 85,
+                    "rival": "EE6"
+                },
+                {
+                    "name": "Empire Eight 6",
+                    "abbreviation": "EE6",
+                    "prestige": 84,
+                    "rival": "EE7"
+                },
+                {
+                    "name": "Empire Eight 7",
+                    "abbreviation": "EE7",
+                    "prestige": 83,
+                    "rival": "EE8"
+                },
+                {
+                    "name": "Empire Eight 8",
+                    "abbreviation": "EE8",
+                    "prestige": 82,
+                    "rival": "EE9"
+                },
+                {
+                    "name": "Empire Eight 9",
+                    "abbreviation": "EE9",
+                    "prestige": 81,
+                    "rival": "EE10"
+                },
+                {
+                    "name": "Empire Eight 10",
+                    "abbreviation": "EE10",
+                    "prestige": 80,
+                    "rival": "EE11"
+                },
+                {
+                    "name": "Empire Eight 11",
+                    "abbreviation": "EE11",
+                    "prestige": 79,
+                    "rival": "EE12"
+                },
+                {
+                    "name": "Empire Eight 12",
+                    "abbreviation": "EE12",
+                    "prestige": 78,
+                    "rival": "EE13"
+                },
+                {
+                    "name": "Empire Eight 13",
+                    "abbreviation": "EE13",
+                    "prestige": 77,
+                    "rival": "EE0"
+                }
+            ]
+        },
+        {
+            "name": "Southern Dominance",
+            "teams": [
+                {
+                    "name": "Southern Dominance 0",
+                    "abbreviation": "SD0",
+                    "prestige": 90,
+                    "rival": "SD1"
+                },
+                {
+                    "name": "Southern Dominance 1",
+                    "abbreviation": "SD1",
+                    "prestige": 89,
+                    "rival": "SD2"
+                },
+                {
+                    "name": "Southern Dominance 2",
+                    "abbreviation": "SD2",
+                    "prestige": 88,
+                    "rival": "SD3"
+                },
+                {
+                    "name": "Southern Dominance 3",
+                    "abbreviation": "SD3",
+                    "prestige": 87,
+                    "rival": "SD4"
+                },
+                {
+                    "name": "Southern Dominance 4",
+                    "abbreviation": "SD4",
+                    "prestige": 86,
+                    "rival": "SD5"
+                },
+                {
+                    "name": "Southern Dominance 5",
+                    "abbreviation": "SD5",
+                    "prestige": 85,
+                    "rival": "SD6"
+                },
+                {
+                    "name": "Southern Dominance 6",
+                    "abbreviation": "SD6",
+                    "prestige": 84,
+                    "rival": "SD7"
+                },
+                {
+                    "name": "Southern Dominance 7",
+                    "abbreviation": "SD7",
+                    "prestige": 83,
+                    "rival": "SD8"
+                },
+                {
+                    "name": "Southern Dominance 8",
+                    "abbreviation": "SD8",
+                    "prestige": 82,
+                    "rival": "SD9"
+                },
+                {
+                    "name": "Southern Dominance 9",
+                    "abbreviation": "SD9",
+                    "prestige": 81,
+                    "rival": "SD10"
+                },
+                {
+                    "name": "Southern Dominance 10",
+                    "abbreviation": "SD10",
+                    "prestige": 80,
+                    "rival": "SD11"
+                },
+                {
+                    "name": "Southern Dominance 11",
+                    "abbreviation": "SD11",
+                    "prestige": 79,
+                    "rival": "SD12"
+                },
+                {
+                    "name": "Southern Dominance 12",
+                    "abbreviation": "SD12",
+                    "prestige": 78,
+                    "rival": "SD13"
+                },
+                {
+                    "name": "Southern Dominance 13",
+                    "abbreviation": "SD13",
+                    "prestige": 77,
+                    "rival": "SD0"
+                }
+            ]
+        },
+        {
+            "name": "Rust Belt Power",
+            "teams": [
+                {
+                    "name": "Rust Belt Power 0",
+                    "abbreviation": "RBP0",
+                    "prestige": 90,
+                    "rival": "RBP1"
+                },
+                {
+                    "name": "Rust Belt Power 1",
+                    "abbreviation": "RBP1",
+                    "prestige": 89,
+                    "rival": "RBP2"
+                },
+                {
+                    "name": "Rust Belt Power 2",
+                    "abbreviation": "RBP2",
+                    "prestige": 88,
+                    "rival": "RBP3"
+                },
+                {
+                    "name": "Rust Belt Power 3",
+                    "abbreviation": "RBP3",
+                    "prestige": 87,
+                    "rival": "RBP4"
+                },
+                {
+                    "name": "Rust Belt Power 4",
+                    "abbreviation": "RBP4",
+                    "prestige": 86,
+                    "rival": "RBP5"
+                },
+                {
+                    "name": "Rust Belt Power 5",
+                    "abbreviation": "RBP5",
+                    "prestige": 85,
+                    "rival": "RBP6"
+                },
+                {
+                    "name": "Rust Belt Power 6",
+                    "abbreviation": "RBP6",
+                    "prestige": 84,
+                    "rival": "RBP7"
+                },
+                {
+                    "name": "Rust Belt Power 7",
+                    "abbreviation": "RBP7",
+                    "prestige": 83,
+                    "rival": "RBP8"
+                },
+                {
+                    "name": "Rust Belt Power 8",
+                    "abbreviation": "RBP8",
+                    "prestige": 82,
+                    "rival": "RBP9"
+                },
+                {
+                    "name": "Rust Belt Power 9",
+                    "abbreviation": "RBP9",
+                    "prestige": 81,
+                    "rival": "RBP10"
+                },
+                {
+                    "name": "Rust Belt Power 10",
+                    "abbreviation": "RBP10",
+                    "prestige": 80,
+                    "rival": "RBP11"
+                },
+                {
+                    "name": "Rust Belt Power 11",
+                    "abbreviation": "RBP11",
+                    "prestige": 79,
+                    "rival": "RBP12"
+                },
+                {
+                    "name": "Rust Belt Power 12",
+                    "abbreviation": "RBP12",
+                    "prestige": 78,
+                    "rival": "RBP13"
+                },
+                {
+                    "name": "Rust Belt Power 13",
+                    "abbreviation": "RBP13",
+                    "prestige": 77,
+                    "rival": "RBP0"
+                }
+            ]
+        },
+        {
+            "name": "Bayou Bloodline",
+            "teams": [
+                {
+                    "name": "Bayou Bloodline 0",
+                    "abbreviation": "BB0",
+                    "prestige": 90,
+                    "rival": "BB1"
+                },
+                {
+                    "name": "Bayou Bloodline 1",
+                    "abbreviation": "BB1",
+                    "prestige": 89,
+                    "rival": "BB2"
+                },
+                {
+                    "name": "Bayou Bloodline 2",
+                    "abbreviation": "BB2",
+                    "prestige": 88,
+                    "rival": "BB3"
+                },
+                {
+                    "name": "Bayou Bloodline 3",
+                    "abbreviation": "BB3",
+                    "prestige": 87,
+                    "rival": "BB4"
+                },
+                {
+                    "name": "Bayou Bloodline 4",
+                    "abbreviation": "BB4",
+                    "prestige": 86,
+                    "rival": "BB5"
+                },
+                {
+                    "name": "Bayou Bloodline 5",
+                    "abbreviation": "BB5",
+                    "prestige": 85,
+                    "rival": "BB6"
+                },
+                {
+                    "name": "Bayou Bloodline 6",
+                    "abbreviation": "BB6",
+                    "prestige": 84,
+                    "rival": "BB7"
+                },
+                {
+                    "name": "Bayou Bloodline 7",
+                    "abbreviation": "BB7",
+                    "prestige": 83,
+                    "rival": "BB8"
+                },
+                {
+                    "name": "Bayou Bloodline 8",
+                    "abbreviation": "BB8",
+                    "prestige": 82,
+                    "rival": "BB9"
+                },
+                {
+                    "name": "Bayou Bloodline 9",
+                    "abbreviation": "BB9",
+                    "prestige": 81,
+                    "rival": "BB10"
+                },
+                {
+                    "name": "Bayou Bloodline 10",
+                    "abbreviation": "BB10",
+                    "prestige": 80,
+                    "rival": "BB11"
+                },
+                {
+                    "name": "Bayou Bloodline 11",
+                    "abbreviation": "BB11",
+                    "prestige": 79,
+                    "rival": "BB12"
+                },
+                {
+                    "name": "Bayou Bloodline 12",
+                    "abbreviation": "BB12",
+                    "prestige": 78,
+                    "rival": "BB13"
+                },
+                {
+                    "name": "Bayou Bloodline 13",
+                    "abbreviation": "BB13",
+                    "prestige": 77,
+                    "rival": "BB0"
+                }
+            ]
+        },
+        {
+            "name": "Iron Cross Conference",
+            "teams": [
+                {
+                    "name": "Iron Cross Conference 0",
+                    "abbreviation": "ICC0",
+                    "prestige": 90,
+                    "rival": "ICC1"
+                },
+                {
+                    "name": "Iron Cross Conference 1",
+                    "abbreviation": "ICC1",
+                    "prestige": 89,
+                    "rival": "ICC2"
+                },
+                {
+                    "name": "Iron Cross Conference 2",
+                    "abbreviation": "ICC2",
+                    "prestige": 88,
+                    "rival": "ICC3"
+                },
+                {
+                    "name": "Iron Cross Conference 3",
+                    "abbreviation": "ICC3",
+                    "prestige": 87,
+                    "rival": "ICC4"
+                },
+                {
+                    "name": "Iron Cross Conference 4",
+                    "abbreviation": "ICC4",
+                    "prestige": 86,
+                    "rival": "ICC5"
+                },
+                {
+                    "name": "Iron Cross Conference 5",
+                    "abbreviation": "ICC5",
+                    "prestige": 85,
+                    "rival": "ICC6"
+                },
+                {
+                    "name": "Iron Cross Conference 6",
+                    "abbreviation": "ICC6",
+                    "prestige": 84,
+                    "rival": "ICC7"
+                },
+                {
+                    "name": "Iron Cross Conference 7",
+                    "abbreviation": "ICC7",
+                    "prestige": 83,
+                    "rival": "ICC8"
+                },
+                {
+                    "name": "Iron Cross Conference 8",
+                    "abbreviation": "ICC8",
+                    "prestige": 82,
+                    "rival": "ICC9"
+                },
+                {
+                    "name": "Iron Cross Conference 9",
+                    "abbreviation": "ICC9",
+                    "prestige": 81,
+                    "rival": "ICC10"
+                },
+                {
+                    "name": "Iron Cross Conference 10",
+                    "abbreviation": "ICC10",
+                    "prestige": 80,
+                    "rival": "ICC11"
+                },
+                {
+                    "name": "Iron Cross Conference 11",
+                    "abbreviation": "ICC11",
+                    "prestige": 79,
+                    "rival": "ICC12"
+                },
+                {
+                    "name": "Iron Cross Conference 12",
+                    "abbreviation": "ICC12",
+                    "prestige": 78,
+                    "rival": "ICC13"
+                },
+                {
+                    "name": "Iron Cross Conference 13",
+                    "abbreviation": "ICC13",
+                    "prestige": 77,
+                    "rival": "ICC0"
+                }
+            ]
+        }
+    ]
+}
