@@ -1,0 +1,122 @@
+{
+    "universeName": "Hubbard Storm Dynasty",
+    "conferences": [
+        {
+            "name": "Lone Star League",
+            "teams": [
+                {
+                    "name": "Hubbard Storm",
+                    "abbreviation": "HUB",
+                    "prestige": 99,
+                    "rival": "MEX",
+                    "primaryColor": "#5E239D",
+                    "secondaryColor": "#FF5500"
+                },
+                {
+                    "name": "Mexia Marauders",
+                    "abbreviation": "MEX",
+                    "prestige": 85,
+                    "rival": "HUB",
+                    "primaryColor": "#000000",
+                    "secondaryColor": "#FF0000"
+                },
+                {
+                    "name": "Waco Rattlers",
+                    "abbreviation": "WAC",
+                    "prestige": 83,
+                    "rival": "SAO",
+                    "primaryColor": "#005A9C",
+                    "secondaryColor": "#A7A9AC"
+                },
+                {
+                    "name": "San Antonio Outlaws",
+                    "abbreviation": "SAO",
+                    "prestige": 82,
+                    "rival": "WAC",
+                    "primaryColor": "#3A3B3C",
+                    "secondaryColor": "#E0E0E0"
+                },
+                {
+                    "name": "Dallas Republic",
+                    "abbreviation": "DAL",
+                    "prestige": 78,
+                    "rival": "AUS",
+                    "primaryColor": "#041E42",
+                    "secondaryColor": "#C60C30"
+                },
+                {
+                    "name": "Austin Thunder",
+                    "abbreviation": "AUS",
+                    "prestige": 79,
+                    "rival": "DAL",
+                    "primaryColor": "#BF5700",
+                    "secondaryColor": "#FFFFFF"
+                },
+                {
+                    "name": "Killeen Guard",
+                    "abbreviation": "KIL",
+                    "prestige": 74,
+                    "rival": "GAL",
+                    "primaryColor": "#002244",
+                    "secondaryColor": "#A5ACAF"
+                },
+                {
+                    "name": "Galveston Coast",
+                    "abbreviation": "GAL",
+                    "prestige": 73,
+                    "rival": "KIL",
+                    "primaryColor": "#1E4D2B",
+                    "secondaryColor": "#FFB612"
+                },
+                {
+                    "name": "Midland Drillers",
+                    "abbreviation": "MID",
+                    "prestige": 72,
+                    "rival": "BEA",
+                    "primaryColor": "#FFC72C",
+                    "secondaryColor": "#0033A0"
+                },
+                {
+                    "name": "Beaumont Roughnecks",
+                    "abbreviation": "BEA",
+                    "prestige": 70,
+                    "rival": "MID",
+                    "primaryColor": "#841617",
+                    "secondaryColor": "#FFB612"
+                },
+                {
+                    "name": "Amarillo Stampede",
+                    "abbreviation": "AMA",
+                    "prestige": 68,
+                    "rival": "ELP",
+                    "primaryColor": "#660000",
+                    "secondaryColor": "#FFD700"
+                },
+                {
+                    "name": "El Paso Sentinels",
+                    "abbreviation": "ELP",
+                    "prestige": 67,
+                    "rival": "AMA",
+                    "primaryColor": "#003366",
+                    "secondaryColor": "#FFCC00"
+                },
+                {
+                    "name": "Tyler Forge",
+                    "abbreviation": "TYL",
+                    "prestige": 65,
+                    "rival": "ODE",
+                    "primaryColor": "#4B2E83",
+                    "secondaryColor": "#B7A57A"
+                },
+                {
+                    "name": "Odessa Oilers",
+                    "abbreviation": "ODE",
+                    "prestige": 64,
+                    "rival": "TYL",
+                    "primaryColor": "#002244",
+                    "secondaryColor": "#69BE28"
+                }
+            ]
+        }
+    ]
+}
